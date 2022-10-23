@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SquadTest
+comment0.text=\r\n\ \ Tests\ the\ methods\ in\ the\ Squad\ Class\ to\ ensure\ they\ work\r\n\ \ as\ expected.\r\n\r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\ \r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=
+comment1.target=SquadTest()
+comment1.text=\r\n\ Creates\ a\ new\ SquadTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testToString()
+comment3.text=\r\n\ A\ testcase\ that\ checks\ that\ the\ toString\ method\r\n\ calls\ the\ overriden\ Tostring\ method\ and\ also\ returns\ a\ list\r\n\ of\ the\ added\ units.\r\n\ It\ also\ checks\ the\ getUnits\ method\ to\ see\ if\ it\ returns\ the\ list\r\n\ of\ Units\ that\ have\ been\ added\ to\ it.\r\n\ This\ case\ also\ cehcks\ if\ the\ removeUnit\ method\r\n\ removes\ a\ unit,\ and\ if\ the\ addUnit\ method\ adds\ a\ \r\n\ unit.\ Also\ it\ ensures\ that\ the\ getPoints\ method\r\n\ adds\ points\ from\ the\ indivdual\ units\ in\ the\ squad\r\n\ as\ well\ as\ the\ squad's\ upgrades.\r\n
+numComments=4

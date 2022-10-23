@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HeroTest
+comment0.text=\r\n\ \ This\ tests\ the\ methods\ in\ the\ Hero\ class\r\n\ \ to\ ensure\ they\ work\ properly.\r\n\r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=
+comment1.target=HeroTest()
+comment1.text=\r\n\ Creates\ a\ new\ HeroTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testQuality()
+comment3.text=\r\n\ An\ example\ test\ case\ that\ tests\ to\ see\ if\ the\ \r\n\ Hero's\ quality\ is\ set\ to\ the\ preferred\ quality\ of\ \r\n\ 3.\r\n
+comment4.params=
+comment4.target=void\ testDefense()
+comment4.text=\r\n\ An\ example\ test\ case\ that\ tests\ to\ see\ if\ the\ \r\n\ Hero's\ defense\ is\ set\ to\ the\ preferred\ defense\ of\ 5.\r\n
+numComments=5

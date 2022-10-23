@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ \ This\ is\ a\ series\ of\ squads\ and\ larger\ units.\r\n\ \ \r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=armyName\ faction\ playerName
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Army\ object.\r\n\ @param\ armyName\ the\ name\ of\ the\ Army.\r\n\ @param\ faction\ the\ faction\ where\ the\ army\ originated.\r\n\ @param\ playerName\ the\ name\ of\ the\ owner\ of\ the\ army.\r\n\ \r\n
+comment2.params=name
+comment2.target=void\ setPlayerName(java.lang.String)
+comment2.text=\r\n\ Set\ the\ name\ of\ the\ army\ owner.\r\n\ @param\ name\ is\ the\ \ name\ of\ the\ army\ owner.\r\n\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPlayerName()
+comment3.text=\r\n\ Get\ the\ name\ of\ the\ army\ owner\ and\ return\ the\ name.\r\n\ @return\ returns\ the\ name\ of\ the\ owner\ of\ this\ unit.\r\n
+comment4.params=origin
+comment4.target=void\ setFaction(java.lang.String)
+comment4.text=\r\n\ Set\ this\ unit's\ faction().\r\n\ @param\ origin\ is\ the\ new\ value\ of\ the\ unit's\ faction.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFaction()
+comment5.text=\r\n\ Get\ this\ unit's\ faction\ and\ return\ the\ faction.\r\n\ @return\ returns\ the\ faction\ of\ this\ Army..\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Overrides\ the\ toString()\ method\ and\ \r\n\ Returns\ the\ name,\ points,\ quality\ and\ defense\ of\ a\ Unit\ \r\n\ as\ well\ as\ upgrades,\ special\ rules,\ the\ lsit\ of\ units,\ as\ well\ \r\n\ as\ the\ name\ of\ the\ army\ owner\ and\ the\ army\ faction.\r\n
+numComments=7

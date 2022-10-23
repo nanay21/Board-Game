@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EnhancedUnitTest
+comment0.text=\r\n\ \ This\ tests\ the\ methods\ in\ the\ EnhancedUnit\ class\r\n\ \ to\ ensure\ they\ work\ properly.\r\n\r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=
+comment1.target=EnhancedUnitTest()
+comment1.text=\r\n\ Creates\ a\ new\ EnhancedUnitTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testSpecialRule()
+comment3.text=\r\n\ An\ example\ test\ case\ that\ tests\ to\ see\ if\ the\ \r\n\ Unit's\ special\ ability\ is\ set\ to\ the\ preferred\ name\ \r\n\ "Super\ Strength".\r\n
+comment4.params=
+comment4.target=void\ testToString()
+comment4.text=\r\n\ A\ testcase\ that\ checks\ that\ the\ toString\ method\r\n\ only\ calls\ the\ inherited\ toString\ method\ if\ the\ \r\n\ special\ rule\ is\ null.\r\n
+comment5.params=
+comment5.target=void\ testToStringSpecialRule()
+comment5.text=\r\n\ A\ testcase\ that\ checks\ that\ the\ toString\ method\r\n\ only\ calls\ the\ inherited\ toString\ method\ if\ the\ \r\n\ special\ rule\ is\ null.\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArmyTest
+comment0.text=\r\n\ \ This\ test\ class\ tests\ the\ methods\ in\ te\=he\ Army\ class\r\n\ \ to\ ensure\ they\ work\ as\ expected.\r\n\r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=
+comment1.target=ArmyTest()
+comment1.text=\r\n\ Creates\ a\ new\ ArmyTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testToString()
+comment3.text=\r\n\ A\ testcase\ that\ checks\ that\ the\ toString\ method\r\n\ calls\ the\ overriden\ Tostring\ method.\r\n\ It\ also\ checks\ the\ getPlayerName\ method\ to\ see\ if\ it\ returns\ \r\n\ the\ name\ of\ the\ owner\ of\ the\ army.\r\n\ This\ case\ also\ cehcks\ if\ the\ getFaction\ method\ gets\ the\r\n\ faction\ of\ the\ army.\r\n
+numComments=4

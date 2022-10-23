@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ Upgrades\ boost\ the\ unit's\ abilities\ in\ some\ interesting\ way.\r\n\ \ Each\ unit\ is\ worth\ a\ certain\ number\ of\ points,\ \r\n\ \ and\ each\ upgrade\ usually\ adds\ to\ the\ point\ value\ of\ a\ unit\r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\ \r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=upgradeName\ upgradePoints
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ upgradeName\ represents\ the\ Unit's\ name.\r\n\ @param\ upgradePoints\ reprents\ the\ unit's\ point\ value.\r\n
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Get\ this\ upgrade's\ name\ and\ return\ it.\r\n\ @param\ newName\ represents\ the\ updated\ name\ \r\n\ of\ the\ upgrade.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Get\ this\ upgrade's\ name\ and\ return\ it.\r\n\ @return\ returns\ the\ name\ of\ the\ upgrade.\r\n
+comment4.params=value
+comment4.target=void\ setPoints(int)
+comment4.text=\r\n\ Get\ this\ upgrade's\ name\ and\ return\ it.\r\n\ @param\ value\ represents\ the\ updated\ value\ \r\n\ of\ the\ unit's\ points\ value.\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ Get\ this\ upgrade's\ cost\ in\ points\ and\ return\ it.\r\n\ @return\ returns\ the\ cost\ of\ points\ of\ this\ upgrade.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Overrides\ the\ toString()\ method\ and\r\n\ Returns\ the\ name\ and\ points\ of\ a\ Upgrade.\r\n
+numComments=7

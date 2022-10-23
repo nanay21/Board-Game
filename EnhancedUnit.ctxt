@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnhancedUnit
+comment0.text=\r\n\ \ This\ class\ is\ a\ type\ of\ Unit\ that\ \r\n\ \ supports\ any\ special\ abilities\ that\ a\ unit\ \r\n\ \ might\ have.\r\n\r\n\ \ @author\ Nana\ Yaw\ Barimah\ Oteng\ \r\n\ \ @version\ (2022.03.20)\r\n
+comment1.params=name1\ value
+comment1.target=EnhancedUnit(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ EnhancedUnit\ object.\r\n\ @param\ name1\ represents\ the\ Unit's\ name.\r\n\ @param\ value\ reprents\ the\ unit's\ point\ value.\r\n
+comment2.params=value
+comment2.target=void\ setSpecialRule(java.lang.String)
+comment2.text=\r\n\ Set\ this\ unit's\ special\ ability\r\n\ (this\ unit's\ special\ ability\ or\ properties).\r\n\ @param\ value\ is\ the\ value\ of\ the\ unit's\r\n\ \ special\ ability)\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSpecialRule()
+comment3.text=\r\n\ Get\ this\ unit's\ special\ ability\ and\ return\ it.\r\n\ @return\ returns\ the\ name\ of\ the\ unit's\r\n\ special\ ability.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Overrides\ the\ toString()\ method\ and\ \r\n\ Returns\ the\ name,\ points,\ quality\ and\ defense\ of\ a\ Unit\ \r\n\ as\ well\ as\ upgrades\ and\ special\ rules\r\n
+numComments=5
